@@ -7,6 +7,46 @@
             "place": "Visakhapatnam",
             "batch_name": "WEB-21",
             "profession": "FSD"
+        },
+        {
+            "name": "swati",
+            "age": "26",
+            "place": "pune",
+            "batchname": "WEB-14",
+            "profession": "FSD",
+            "id": 2
+        },
+        {
+            "name": "vishal",
+            "age": "29",
+            "place": "pune",
+            "batchname": "WEB-13",
+            "profession": "Backend",
+            "id": 3
+        },
+        {
+            "name": "uday",
+            "age": "23",
+            "place": "nashik",
+            "batchname": "WEB-15",
+            "profession": "Student",
+            "id": 4
+        },
+        {
+            "name": "vaibhav",
+            "age": "33",
+            "place": "nashik",
+            "batchname": "WEB-13",
+            "profession": "Backend",
+            "id": 5
+        },
+        {
+            "name": "ratul",
+            "age": "26",
+            "place": "banglore",
+            "batchname": "WEB-14",
+            "profession": "FSD",
+            "id": 6
         }
     ]
 }
